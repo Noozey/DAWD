@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Nooze\\source\\repos\\dawdd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|c:\\users\\nooze\\source\\repos\\dawdd\\dawdd\\ticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|c:\\users\\nooze\\source\\repos\\dawdd\\dawdd\\shows.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\shows.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\dashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\ticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\ticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|c:\\users\\nooze\\source\\repos\\dawdd\\dawdd\\show.aspx||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\show.aspx||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\movieoccupancy.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\movieoccupancy.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|c:\\users\\nooze\\source\\repos\\dawdd\\dawdd\\movie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\theatrecityhallmovie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\theatrecityhallmovie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\userticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\userticket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\movie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\movie.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|c:\\users\\nooze\\source\\repos\\dawdd\\dawdd\\customer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\customer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\customer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\scripts\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\userticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\userticket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\movie.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\movie.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\movie.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45788646-C20D-4AAC-993B-A8B8855A8B22}|dawdd\\dawdd.csproj|solutionrelative:dawdd\\movie.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +62,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ticket.aspx",
-              "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Ticket.aspx",
-              "RelativeDocumentMoniker": "dawdd\\Ticket.aspx",
-              "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Ticket.aspx",
-              "RelativeToolTip": "dawdd\\Ticket.aspx",
+              "Title": "Shows.aspx",
+              "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Shows.aspx",
+              "RelativeDocumentMoniker": "dawdd\\Shows.aspx",
+              "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Shows.aspx",
+              "RelativeToolTip": "dawdd\\Shows.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-03-07T19:06:25.658Z",
+              "WhenOpened": "2026-03-17T14:25:46.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Show.aspx",
-              "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Show.aspx",
-              "RelativeDocumentMoniker": "dawdd\\Show.aspx",
-              "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Show.aspx",
-              "RelativeToolTip": "dawdd\\Show.aspx",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-03-07T19:05:09.285Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "bootstrap.min.js",
+              "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Scripts\\bootstrap.min.js",
+              "RelativeDocumentMoniker": "dawdd\\Scripts\\bootstrap.min.js",
+              "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Scripts\\bootstrap.min.js",
+              "RelativeToolTip": "dawdd\\Scripts\\bootstrap.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-16T14:22:15.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Movie.aspx",
               "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Movie.aspx",
               "RelativeDocumentMoniker": "dawdd\\Movie.aspx",
@@ -64,21 +103,127 @@
               "RelativeToolTip": "dawdd\\Movie.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-03-07T18:59:50.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T18:59:50.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Customer.aspx",
               "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Customer.aspx",
               "RelativeDocumentMoniker": "dawdd\\Customer.aspx",
               "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Customer.aspx",
               "RelativeToolTip": "dawdd\\Customer.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-03-07T18:48:55.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T18:48:55.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TheatreCityHallMovie.aspx",
+              "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\TheatreCityHallMovie.aspx",
+              "RelativeDocumentMoniker": "dawdd\\TheatreCityHallMovie.aspx",
+              "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\TheatreCityHallMovie.aspx",
+              "RelativeToolTip": "dawdd\\TheatreCityHallMovie.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-08T18:02:10.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.aspx",
+              "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Ticket.aspx",
+              "RelativeDocumentMoniker": "dawdd\\Ticket.aspx",
+              "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Ticket.aspx",
+              "RelativeToolTip": "dawdd\\Ticket.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-07T19:06:25.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Userticket.aspx",
+              "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Userticket.aspx",
+              "RelativeDocumentMoniker": "dawdd\\Userticket.aspx",
+              "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Userticket.aspx",
+              "RelativeToolTip": "dawdd\\Userticket.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-08T17:56:29.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.aspx",
+              "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Dashboard.aspx",
+              "RelativeDocumentMoniker": "dawdd\\Dashboard.aspx",
+              "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Dashboard.aspx",
+              "RelativeToolTip": "dawdd\\Dashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-08T23:39:52.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Movie.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Movie.aspx.cs",
+              "RelativeDocumentMoniker": "dawdd\\Movie.aspx.cs",
+              "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Movie.aspx.cs",
+              "RelativeToolTip": "dawdd\\Movie.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:18:46.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieOccupancy.aspx",
+              "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\MovieOccupancy.aspx",
+              "RelativeDocumentMoniker": "dawdd\\MovieOccupancy.aspx",
+              "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\MovieOccupancy.aspx",
+              "RelativeToolTip": "dawdd\\MovieOccupancy.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-03-08T18:23:34.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Content\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "dawdd\\Content\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Content\\bootstrap.min.css",
+              "RelativeToolTip": "dawdd\\Content\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-16T15:22:54.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Userticket.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Userticket.aspx.cs",
+              "RelativeDocumentMoniker": "dawdd\\Userticket.aspx.cs",
+              "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Userticket.aspx.cs",
+              "RelativeToolTip": "dawdd\\Userticket.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T18:21:23.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Movie.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Movie.aspx.designer.cs",
+              "RelativeDocumentMoniker": "dawdd\\Movie.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Nooze\\source\\repos\\dawdd\\dawdd\\Movie.aspx.designer.cs",
+              "RelativeToolTip": "dawdd\\Movie.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:18:49.695Z"
             }
           ]
         }
